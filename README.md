@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![mefrraz profile views](https://u8views.com/api/v1/github/profiles/214242243/views/day-week-month-total-count.svg)](https://u8views.com/github/mefrraz)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mefrraz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefrraz)](https://github.com/mefrraz/github-readme-stats)
 
 <!--
 **mefrraz/mefrraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
